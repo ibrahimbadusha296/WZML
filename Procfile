@@ -1,1 +1,5 @@
-worker: bundle exec thin start -p $PORT
+build:
+  docker:
+    worker: Dockerfile
+run:
+  worker: bash start.sh
