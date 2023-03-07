@@ -1,6 +1,6 @@
 ## Deploy on Heroku :-
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/ibrahimbadusha296/TorrentLeechBot)"> <img src="https://www.herokucdn.com/deploy/button.svg" width="150"/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/ibrahimbadusha296/WZML)"> <img src="https://www.herokucdn.com/deploy/button.svg" width="150"/></a></p>
 <br>
 
 <p align="center">
